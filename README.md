@@ -22,3 +22,7 @@ https://github.com/AndryTafa/MoviesApplication
 
 Thank you, and kind regards!
 
+
+
+
+<img width="211" alt="image" src="https://github.com/AndryTafa/mkodo_compose_take_home/assets/101065496/b29058b3-5735-4c9d-a9f4-e1c51e5d4910">
